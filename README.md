@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bradley Wilson</h1>
+<H3 align="center">I am a passionate software engineer with a career shaped by Mental Health, Mentoring and Software Accessibility. With a extensive background in Mobile Development, I have moved into the realm of Backend and Web to become a more rounded developer through Wellsome. Here you can find my contributions to open-source projects both public and private and the tinkerings of a curious learner.</h3>
 
 - 🔭 I’m currently working on [Wellsome](https:/wellsome.care)
 
