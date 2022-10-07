@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bradley Wilson</h1>
-<h3 align="center">I am on a mission to help make mental health and holistic well-being services more accessible to everyone.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bradleyiw" alt="bradleyiw" /></a> </p>
 
 - 🔭 I’m currently working on [Wellsome](https:/wellsome.care)
 
